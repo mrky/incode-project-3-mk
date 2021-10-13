@@ -1,0 +1,16 @@
+{
+  "name": "project-3",
+  "version": "1.0.0",
+  "description": "Basic routing app with Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "devStart": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Kelly",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
